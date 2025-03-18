@@ -1,0 +1,3 @@
+[submodule "models/RibonanzaNet"]
+	path = models/RibonanzaNet
+	url = git@github.com:Shujun-He/RibonanzaNet.git
