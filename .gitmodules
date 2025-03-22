@@ -4,3 +4,9 @@
 [submodule "models/RhoFold"]
 	path = models/RhoFold
 	url = https://github.com/ml4bio/RhoFold.git
+[submodule "models/boltz"]
+	path = models/boltz
+	url = git@github.com:jwohlwend/boltz.git
+[submodule "models/Protenix"]
+	path = models/Protenix
+	url = git@github.com:bytedance/Protenix.git
