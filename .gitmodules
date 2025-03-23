@@ -10,3 +10,6 @@
 [submodule "models/Protenix"]
 	path = models/Protenix
 	url = git@github.com:bytedance/Protenix.git
+[submodule "models/openfold"]
+	path = models/openfold
+	url = https://github.com/aqlaboratory/openfold
