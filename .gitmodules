@@ -13,3 +13,6 @@
 [submodule "models/openfold"]
 	path = models/openfold
 	url = https://github.com/aqlaboratory/openfold
+[submodule "models/alphafold"]
+	path = models/alphafold
+	url = https://github.com/google-deepmind/alphafold
