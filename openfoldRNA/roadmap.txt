@@ -1,0 +1,19 @@
+1. Code Audit:
+Review Openanalyzedules for protein-specific assumptions.
+2. Tokenization Update:
+Define a new tokenization scheme for RNA nucleotides (e.g., A, C, G, U) and a masked token.
+3. MSA Processing:
+Adapt parsers to handle RNA FASTA files and RNA-specific MSAs.
+4. Feature Extraction:
+Modify extraction pipelines to include RNA-specific features (e.g., base pairing, secondary structure).
+Model Architecture:
+Update embedding layers and adjust transformer modules if necessary.
+Integrate or modify masking mechanisms (masked_msa_token) for RNA.
+Dataset Preparation:
+Curate RNA structure data and generate corresponding RNA MSAs.
+Prepare training, validation, and testing splits.
+Training Setup:
+Update configuration files (hyperparameters, learning rates, etc.) for RNA training.
+Define RNA-specific evaluation metrics.
+Experimentation & Iteration:
+Run pilot experiments, analyze errors, and refine the model.
