@@ -1,5 +1,5 @@
 1. Code Audit:
-Review Openanalyzedules for protein-specific assumptions.
+Review OpenFold architecture for protein-specific assumptions.
 
 2. Tokenization Update:
 Define a new tokenization scheme for RNA nucleotides (e.g., A, C, G, U) and a masked token.
