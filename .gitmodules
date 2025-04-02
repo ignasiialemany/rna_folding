@@ -16,3 +16,6 @@
 [submodule "models/alphafold"]
 	path = models/alphafold
 	url = https://github.com/google-deepmind/alphafold
+[submodule "models/DRfold2"]
+	path = models/DRfold2
+	url = git@github.com:ignasiialemany/DRfold2.git
